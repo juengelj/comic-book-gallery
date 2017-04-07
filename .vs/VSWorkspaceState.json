@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\ComicBookGallery",
+    "\\src\\ComicBookGallery\\Views"
   ],
+  "SelectedNode": "\\src\\ComicBookGallery.sln",
   "PreviewInSolutionExplorer": false
 }
